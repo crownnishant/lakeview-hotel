@@ -99,6 +99,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>lakeview-hotel</finalName>
 	</build>
 
 </project>
